@@ -1,6 +1,6 @@
 # liquorprice
 
-> A Mpvue project
+> 酱香白酒吧快速查酒工具
 
 ## Build Setup
 
